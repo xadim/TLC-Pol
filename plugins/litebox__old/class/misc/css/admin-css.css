@@ -1,0 +1,71 @@
+/*css for admin panel*/
+    .LiteboxBlockcontent{
+	    padding: 5px 10px 10px 15px;
+	    margin: 0px 0px 20px 0px;
+	    background-color: #fff;
+	    border-left: 4px solid #333c45;
+	   -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	    max-width: 1500px;
+   }
+  
+  .LiteboxSetting {
+       display: block;
+       padding: 5px 10px 5px 15px;
+       margin-top:20px;
+    }
+
+	.LiteboxSetting2 {
+        display: block;
+        padding: 5px 10px 5px 15px;
+        margin-top:5px;
+    }
+
+	.LiteboxSettingTitle {
+        float: left;
+        width: 340px;
+        font-weight: bold;
+        height: 30px;
+        line-height: 30px;
+    }
+
+	.LiteboxSettingTitle2 {
+        float: left;
+        width: 340px;
+        height: 60px;
+        line-height: 20px;
+    }
+
+	.LiteboxSettingItem {
+        float: left;
+    }
+
+	.LiteboxSettingClear {
+        clear: left;
+    }
+   
+   .defaults{
+        color:#1e8cbe;
+    }
+   
+   .default_text{
+        margin-left:15px;
+	}
+
+    .default_text2{
+        margin:20px 0 0 15px;
+        font-weight:bold;
+    } 
+
+#shortcodes td {
+width:350px;
+padding:20px;
+}	
+
+#shortcodes th{
+padding:20px;
+}
+
+#shortcodes i{
+color:#1e8cbe;
+}

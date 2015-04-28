@@ -1,0 +1,202 @@
+.fts-twitter-div * {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.fts-twitter-div a:hover	{
+    color:#444;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+	text-decoration:none;
+}
+.fts-twitter-div a:hover	{
+    color:#777;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+}
+.fts-twitter-div {
+	position:relative;
+	padding: 0;
+	clear:both;
+}
+.fts-twitter-div {
+	position:relative;
+	padding: 0;
+	clear:both;
+}
+.tweeter-info:hover a {
+	color:#919191;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+	text-decoration:none !important;
+}
+.fts-twitter-div .uppercase {
+	
+}
+.widget .fts-twitter-div .uppercase {
+	width:auto;
+}
+.fts-twitter-div p {
+	margin:0 0 5px 0 !important;
+	line-height:20px !important;
+	padding:0;
+	font-size: 12px;
+}
+.widget .fts-twitter-div p {
+	margin:0 0 8px 0 !important;
+	padding:0 !important;
+	line-height:19px !important;
+	font-size:12px !important;
+}
+.fts-twitter-div img {
+	margin:0 15px 0 0;
+}
+.fts-twitter-div .uppercase {
+     margin:2px 5px 4px 0;
+}
+.widget .fts-twitter-div img {
+     width:40px; 
+     margin-right:10px !important;
+}
+.widget .fts-twitter-div .uppercase, .widget .tweeter-info .right {
+     margin:0 !important;
+     font-size:11px;
+     line-height:14px;
+     font-weight:normal !important;
+}
+.tweeter-info .right {
+     margin:0 15px;  
+     float:none !important; 
+	 padding:0; 
+	 line-height:15px !important;
+}
+.fts-twitter-fade	{
+	display:none;
+	width:321px;
+	height:80px;
+	position:absolute;
+	top:137px;
+	left:1px;
+}
+.fts-twitter-image {
+     margin:0; 
+     float:left; 
+     border-radius: 20px;
+}
+.fts-twitter-image img{
+	 border-radius: 20px;
+}
+.widget .fts-twitter-image {
+     margin:0; 
+     float:left;  
+}
+.tweeter-info {
+     padding:11px 11px 19px 11px;
+     margin-bottom:7px;
+     border-top:1px solid rgba(5, 5, 5, 0.2); 
+     clear:both;  
+     min-height:51px;
+	 line-height:13px;
+	-webkit-transition: background 2s;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+     
+}
+.tweeter-info .link {
+	font-size: 12px;
+	float: right;
+	text-decoration: underline;
+	text-align: left;
+	color: rgba(89, 141, 165, 0.4);
+}
+
+.tweeter-info .linkL {
+	font-size: 14px;
+	float: left;
+	margin: 2px 7px 0 0px;
+	text-align: left;
+	color: #2a425a;
+	opacity: 0.4;
+}
+
+.tweeter-info .linkL:hover {
+	font-size: 14px;
+	float: left;
+	margin: 0px 7px 0 0px;
+	text-align: left;
+	color: #2a425a;
+	opacity: 1;
+}
+.tweeter-reply-img {
+	border: none;
+	border-radius: 0;
+     width: 19px;
+     height: 19px;
+}
+.widget .tweeter-info {
+     margin-bottom:25px !important;  
+     min-height: 42px; 
+}
+.tweeter-info:hover {
+     background:#FFF;
+     box-shadow:0 1px 2px #222;
+	-webkit-transition: background 2s;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+     
+}
+.tweeter-info img {
+     border-radius:7px;
+	 box-shadow:0 !important;
+     border:1px solid #eee
+}
+
+
+.fts-twitter-link	{
+	position:absolute;
+	top:217px;
+	left:0px;
+	font-size:22px;
+	text-transform:uppercase;
+	width:291px;
+	height:36px;
+	padding:15px 0 0 38px;
+	border-top:1px solid #c1c2c3;
+	color:#000;
+}
+.fts-twitter-div a	{
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+	text-decoration: none !important;
+	color:#1982D1;
+}
+.fts-twitter-div a:hover	{
+    color:#444;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+	text-decoration: none !important;
+}
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.5; }
+    to { opacity: 1.0; }
+}
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.5; }
+    to { opacity: 1.0; }
+}
